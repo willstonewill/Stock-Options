@@ -13,14 +13,15 @@ Before you begin, ensure you have Docker and Docker Compose installed on your sy
 
 1. Clone this repository to your local machine:
 
+   Replace "yourusername" with your github name if you have forked it, otherwise use Ege's name
    ```bash
-   git clone https://github.com/yourusername/docker-jupyter-postgresql.git
+   git clone https://github.com/yourusername/Stock-Options
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd docker-jupyter-postgresql
+   cd Stock-Options
    ```
 
 3. Start the Docker Compose environment:
